@@ -1,0 +1,34 @@
+li {
+  background-color: gray;
+  height: 100px;
+  width: 100px;
+  border: 5px solid black;
+  float: left;
+  margin: 0px;
+  padding: 0px;
+  list-style: none;
+}
+
+ul {
+  width: 350px;
+  margin: 0px;
+  padding: 0px;
+}
+
+/*li:clicked {
+  background-color: white;
+  background-image: /*find and x image*/
+
+
+.clicked {
+  background-color: white;
+  background-image: /*find and o image*/;
+}
+
+li:hover {
+  background-color: yellow !important;
+}
+
+.hidden{
+  display: none;
+}
